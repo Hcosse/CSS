@@ -1,0 +1,182 @@
+/* Exercice 1 */
+.alert {
+  margin: 4px;
+  width: 90%;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.alert-primaire {
+  background-color: #ff5733;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+
+.alert-sucess {
+  background-color: violet;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+.alert-danger {
+  background-color: grey;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+
+.alert-warning {
+  background-color: blueviolet;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+.alert-dark {
+  background-color: tan;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+
+/* Exercice 2 */
+
+.boutton {
+  width: 20%;
+  text-align: center;
+  justify-content: space-between;
+  align-items: center;
+  margin: 4px;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn-one {
+  color: white;
+  background: #007bff;
+}
+.btn-one:hover {
+  background-color: white;
+  color: #007bff;
+  border: solid;
+}
+.btn-two {
+  color: white;
+  background: #28a745;
+}
+.btn-two:hover {
+  background-color: white;
+  color: #28a745;
+  border: solid;
+}
+.btn-three {
+  color: white;
+  background: #dc3545;
+}
+.btn-three:hover {
+  background-color: white;
+  color: #dc3545;
+  border: solid;
+}
+
+.btn-four {
+  color: black;
+  background: #ffc107;
+}
+.btn-four:hover {
+  background-color: white;
+  color: #ffc107;
+  border: solid;
+}
+.btn-five {
+  color: white;
+  background: #343a40;
+}
+.btn-five:hover {
+  background-color: white;
+  color: black;
+  border: solid;
+}
+.second-boutton {
+  width: 20%;
+  text-align: center;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 4px;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  border: solid;
+  border-color: #007bff;
+  color: #007bff;
+  background: white;
+}
+.btn-success {
+  border: solid;
+  border-color: #28a745;
+  color: #28a745;
+  background: white;
+}
+.btn-danger {
+  border: solid;
+  border-color: #dc3545;
+  color: #dc3545;
+  background: white;
+}
+.btn-warning {
+  border: solid;
+  background: white;
+  color: #ffc107;
+}
+
+.btn-dark {
+  border: solid;
+  color: black;
+  background: white;
+}
+
+/* Exercice 3 */
+
+.carre {
+  padding: 60px;
+  border: solid;
+  border-color: #fcd116;
+  background-color: #fcd116;
+}
+
+.rectangle-one {
+  padding: 30px;
+  border: solid;
+  border-color: #003893;
+  background-color: #003893;
+}
+
+.rectangle-two {
+  padding: 30px;
+  border: solid;
+  border-color: #ce1126;
+  background-color: #ce1126;
+}
+
+/* Exercice 4 */
+
+.grand-carre {
+  border: solid;
+  padding: 30%;
+}
+
+.petit-carre {
+  
+  -moz-transform: scale(1.4);
+-webkit-transform: scale(1.4);
+-o-transform: scale(1.4);
+-ms-transform: scale(1.4);
+transform: scale(1.4);
+ 
+
+}
