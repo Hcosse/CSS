@@ -1,0 +1,40 @@
+
+/* Exercice 4 */
+
+.grand-carre {
+  width: 80%;
+  margin: auto;
+  border: 5px solid black;
+  border-left: 5px;
+}
+
+.div1 {
+  background-color: #4976c9;
+  height: 100px;
+  width: 30%;
+  border: 5px solid black;
+  border-top: 5px;
+  border-bottom: 5px;
+}
+
+.div2 {
+  background-color: #375897;
+  height: 100px;
+  width: 50%;
+  border: 5px solid black;
+  border-bottom: 5px;
+}
+
+.div3 {
+  background-color: #243b64;
+  height: 100px;
+  width: 70%;
+  border: 5px solid black;
+}
+
+.div4 {
+  background-color: #121d32;
+  height: 100px;
+  border: 1px solid black;
+}
+

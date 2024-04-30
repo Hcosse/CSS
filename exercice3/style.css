@@ -1,0 +1,25 @@
+
+
+/* Exercice 3 */
+
+.carre {
+  padding: 60px;
+  border: solid;
+  border-color: #fcd116;
+  background-color: #fcd116;
+}
+
+.rectangle-one {
+  padding: 30px;
+  border: solid;
+  border-color: #003893;
+  background-color: #003893;
+}
+
+.rectangle-two {
+  padding: 30px;
+  border: solid;
+  border-color: #ce1126;
+  background-color: #ce1126;
+}
+

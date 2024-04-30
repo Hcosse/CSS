@@ -1,0 +1,50 @@
+
+/* Exercice 5 */
+
+.col {
+  border: solid;
+  color: white;
+  border-color: black;
+  background-color: black;
+  width: 10%;
+}
+.row {
+  border: solid 1px;
+  border-color: black;
+  border-left: 0px;
+  border-right: 0px;
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.col-one {
+  padding: 10px;
+  border: solid 1px;
+  border-left: 0px;
+  border-right: 0px;
+  color: black;
+  border-color: #80808080;
+  background-color: white;
+  width: 10%;
+}
+
+.row1 {
+  border: solid 1px;
+  border-left: 0px;
+  border-right: 0px;
+  padding: 10px;
+  border-color: #80808080;
+  background-color: #80808080;
+}
+
+.row2 {
+  border: solid 1px;
+  border-left: 0px;
+  border-right: 0px;
+  padding: 10px;
+  border-color: #80808080;
+}
+

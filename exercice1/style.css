@@ -1,0 +1,42 @@
+/* Exercice 1 */
+.alert {
+  margin: 4px;
+  width: 90%;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.alert-primaire {
+  background-color: #ff5733;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+
+.alert-sucess {
+  background-color: violet;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+.alert-danger {
+  background-color: grey;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+
+.alert-warning {
+  background-color: blueviolet;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+.alert-dark {
+  background-color: tan;
+  color: black;
+  border: 0.9px solid;
+  border-color: black;
+}
+

@@ -1,0 +1,33 @@
+
+
+/* Exercice 6  */
+
+.top {
+  position: absolute;
+  right:1000;
+  text-align: left;
+  border: solid 1px;
+  background-color: #299be4;
+  color: white;
+  padding: 7px;
+}
+
+.titre-colonne {
+  border-collapse: collapse;
+  letter-spacing: 1px;
+  border: solid 1px;
+  border-color: #dcdcdc;
+  border-left: 0px;
+  border-right: 0px;
+  padding: 10px;
+}
+
+.corp {
+  border: solid 1px;
+  border-color: #dcdcdc;
+  border-left: 0px;
+  border-right: 0px;
+  padding: 15px;
+  
+}
+
